@@ -4,3 +4,4 @@ langgraph
 langchain
 langchain-community
 langchain-ollama
+streamlit
